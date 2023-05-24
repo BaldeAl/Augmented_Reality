@@ -7,4 +7,4 @@ Ceci est un site web de réalité augmentée
 ## Marqueur
 # ![image](https://github.com/BaldeAl/Augmented_Reality/assets/79581163/0c03c28c-65fa-4f8b-9ae0-9dad14b38eb4)
 
-←
+←### Pointer la caméra sur le marqueur et suivez les instructions
